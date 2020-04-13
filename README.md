@@ -17,3 +17,9 @@ The Feistel cipher is a symmetric structure used in the construction of block ci
 
 + #### Vigenère Cipher
 Vigenere Cipher is a method of encrypting alphabetic text. It uses a simple form of polyalphabetic substitution. A polyalphabetic cipher is any cipher based on substitution, using multiple substitution alphabets .The encryption of the original text is done using the Vigenère square or Vigenère table.
+
++ #### Data Encryption Standard
+The Data Encryption Standard (DES) is a symmetric-key block cipher published by the National Institute of Standards and Technology (NIST). DES is an implementation of a Feistel Cipher. It uses 16 round Feistel structure. The block size is 64-bit.
+
++ #### Advanced Encryption Standard
+The advanced encryption standard (AES) is the current US standard in symmetric block ciphers. AES uses 128-bit (with 10 rounds of encryption), 192-bit (with 12 rounds of encryption), or 256-bit (with 14 rounds of encryption) keys to encrypt 128-bit blocks of data.
